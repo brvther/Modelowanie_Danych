@@ -1,0 +1,17 @@
+klient jest jeden jednak dzieli sie na pod typy:
+
+	- indywidualny
+	- biznesowy
+
+Należy stwierdzic co ten program robi dla klienta
+				                 _____________________
+INDYWIDUALNY \		      |		                 |
+		           KLIENT --|co oferujemy klient.|		 
+BIZNESOWY   /			      |____________________|
+
+Należy stworzyc strukture danych a nie funkcjoalność
+
+Znaleźć dane eurostatu i przekształcic je w system który pozwoli na wyszukiwanie i analize informacji o gospodarkach bazując na danych z EUROSTAT.
+przegladanie, wyszukiwanie, analizowanie i wizualizacja danych
+
+# NAJWAŻNIEJSZA JEST STRUKTURA, wczytywanie raportów nie jest ważne bo często wywala błędy dlatego lepiej to z palca
