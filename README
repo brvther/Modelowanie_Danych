@@ -4,10 +4,10 @@ klient jest jeden jednak dzieli sie na pod typy:
 	- biznesowy
 
 Należy stwierdzic co ten program robi dla klienta
-				                 _____________________
-INDYWIDUALNY \		      |		                 |
-		           KLIENT --|co oferujemy klient.|		 
-BIZNESOWY   /			      |____________________|
+				            
+INDYWIDUALNY \		      		                 
+	      KLIENT (interesariusz)  -->  |co oferujemy klientowi|		 
+BIZNESOWY   /			      
 
 Należy stworzyc strukture danych a nie funkcjoalność
 
