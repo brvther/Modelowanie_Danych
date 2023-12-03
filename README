@@ -15,3 +15,17 @@ Znaleźć dane eurostatu i przekształcic je w system który pozwoli na wyszukiw
 przegladanie, wyszukiwanie, analizowanie i wizualizacja danych
 
 # NAJWAŻNIEJSZA JEST STRUKTURA, wczytywanie raportów nie jest ważne bo często wywala błędy dlatego lepiej to z palca
+
+Sam szkielet / model bazy, nie robić API.
+10 to całkiem sympatyczna liczba tabel. 
+Minimum 8 tabel sobie wyznaczamy.
+
+słownik danych opisuje zbiór danych (jest wszystko w prezentacji)
+czym są te dane, czym się wiążą? 
+
+Finalnie stowryzc prezetnacje projektu w jaimś powerpoint czy coś.
+
+```{r}
+XD 
+
+``
